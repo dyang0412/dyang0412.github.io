@@ -1,5 +1,6 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+@font-face {
+  font-family: 'Lausanne';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://assets.website-files.com/5f8dd056c51c1d04c3eaa497/6082ee076fa285ba3a1f6013_LausanneRAMP-400.ttf) format('ttf');
 }
